@@ -2,3 +2,4 @@
 Feature branch text
 Master branch text
 This line was added from the master side.
+This line was added from the feature side.
